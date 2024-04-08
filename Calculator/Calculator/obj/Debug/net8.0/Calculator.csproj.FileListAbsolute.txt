@@ -1,0 +1,5 @@
+c:\Users\Thriv\OneDrive\Documents\knownledge check\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Thriv\OneDrive\Documents\knownledge check\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\Users\Thriv\OneDrive\Documents\knownledge check\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\Users\Thriv\OneDrive\Documents\knownledge check\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\Thriv\OneDrive\Documents\knownledge check\Calculator\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
